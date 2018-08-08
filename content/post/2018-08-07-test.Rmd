@@ -1,0 +1,10 @@
+---
+title: Test!
+author: Marina Aspesi
+date: '2018-08-07'
+slug: test
+categories: []
+tags: []
+---
+
+This is just a test.
